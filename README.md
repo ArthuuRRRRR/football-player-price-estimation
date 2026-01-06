@@ -1,46 +1,47 @@
 # ⚽ Football Player Price Estimation
 
-Ce projet vise à estimer la **valeur marchande de joueurs de football** à l’aide du **machine learning**, en se basant sur leurs statistiques et caractéristiques.
+This project aims to estimate the **market value of football players** using **machine learning**, based on player statistics and characteristics.
 
 ---
 
-## 📌 Objectif
-Créer un modèle capable de prédire le prix d’un joueur à partir de données réelles (âge, poste, performances, etc.).
+## 📌 Objective
+Build a predictive model capable of estimating a football player's market value using real-world data such as age, position, and performance metrics.
 
 ---
 
-## 🛠️ Technologies utilisées
+## 🛠️ Technologies Used
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
-- Matplotlib / Seaborn
+- Matplotlib
+- Seaborn
 - Jupyter Notebook
 
 ---
 
-## 📊 Données
-Les données utilisées contiennent des informations sur :
-- L’âge du joueur
-- Le poste
-- Les performances
-- Le club
-- La valeur marchande
+## 📊 Dataset
+The dataset includes information such as:
+- Player age
+- Position
+- Club
+- Performance statistics
+- Market value
 
-*(Les données sont nettoyées et préparées avant l’entraînement du modèle)*
-
----
-
-## 🧠 Modèle
-- Prétraitement des données
-- Séparation train / test
-- Entraînement du modèle
-- Évaluation des performances
+*The data is cleaned and preprocessed before training the model.*
 
 ---
 
-## 🚀 Comment exécuter le projet
+## 🧠 Model
+- Data preprocessing
+- Train / test split
+- Model training
+- Performance evaluation
 
-1. Cloner le repository :
+---
+
+## 🚀 How to Run the Project
+
+1. Clone the repository:
 ```bash
-git clone https://github.com/TON_USERNAME/football-player-price-estimation.git
+git clone https://github.com/ArthuuRRRRR/football-player-price-estimation.git
